@@ -67,7 +67,7 @@ I’m excited to share my latest Cisco Packet Tracer project – a multi‑depar
 
 ## 🤝 Contributing
 
-Contributions are welcome! To extend this lab:
+### Contributions are welcome! To extend this lab:
 
     Fork the repository.
 
